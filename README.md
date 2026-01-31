@@ -26,6 +26,3 @@ All theoretical explanations, derivations, and concepts are documented on my blo
 For detailed theory, explanation of each simulation, and discussion of results, refer to the blog linked above.
 
 ---
-
-**Author:** Alif Azam  
-**Blog:** [https://azam-alif.github.io](https://azam-alif.github.io)

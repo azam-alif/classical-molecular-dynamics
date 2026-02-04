@@ -9,14 +9,7 @@ All theoretical explanations, derivations, and concepts are documented on my blo
 
 - `lammps/` – Input scripts for LAMMPS simulations.
 - `analysis/` – Python scripts for processing simulation output, generating plots, and visualizing results.
-- `results/` – Generated figures and plots from the simulations.
 
-## Examples
-
-- Lennard-Jones potential simulations
-- Maxwell–Boltzmann velocity distribution verification
-- Thermostat (NVT/NVE) experiments
-- Radial distribution function calculations
 
 ## Usage
 

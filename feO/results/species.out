@@ -1,0 +1,2002 @@
+#  Timestep    No_Moles    No_Specs          Fe           O
+          0        1000           2         500         500
+#  Timestep    No_Moles    No_Specs          Fe       O6Fe4         OFe       O8Fe6        OFe2       O4Fe3        O2Fe        O3Fe       O3Fe2       O5Fe6       O2Fe2       O3Fe4       O4Fe2       O4Fe4       O7Fe6       O6Fe7       O5Fe5       O3Fe3       O2Fe3           O
+        100         720          20         332           1          15           1           7           5          13           2           5           1          18           1           1           2           2           1           1           1           2         309
+#  Timestep    No_Moles    No_Specs          Fe       O6Fe5       O2Fe3       O5Fe3       O9Fe8       O5Fe5       O4Fe5       O4Fe3       O2Fe2       O3Fe2       O5Fe6        OFe2     O27Fe23       O8Fe7       O4Fe4         OFe     O49Fe45       O7Fe6       O3Fe3       O3Fe4        O2Fe       O9Fe6           O
+        200         650          23         313           2           3           1           1           2           1           3           7           1           1           4           1           1           1           1           1           1           2           1           1           1         300
+#  Timestep    No_Moles    No_Specs         Fe2          Fe       O6Fe7       O7Fe7       O9Fe8     O29Fe24       O6Fe5     O16Fe17       O5Fe6        OFe2       O2Fe4       O5Fe4     O27Fe25       O8Fe8     O25Fe22         OFe       O2Fe2     O24Fe25       O3Fe4       O2Fe3           O
+        300         611          21          17         270           1           2           1           1           3           1           1           3           1           1           1           1           1           2           1           1           1           1         300
+#  Timestep    No_Moles    No_Specs         Fe2          Fe         Fe4         Fe3       O3Fe3       O3Fe4     O30Fe31       O8Fe8     O40Fe37     O13Fe12     O45Fe47       O4Fe2         OFe     O14Fe14       O2Fe2        OFe2     O25Fe21       O2Fe3           O          O2
+        400         567          20          41         204           1           3           1           2           1           1           1           1           1           1           4           1           2           2           1           2         296           1
+#  Timestep    No_Moles    No_Specs         Fe3          Fe         Fe2         Fe5         Fe4     O88Fe84       O3Fe4       O4Fe3      O8Fe13     O51Fe55     O10Fe12       O8Fe7        OFe2        O2Fe     O24Fe21       O2Fe2       O2Fe4           O          O2
+        500         499          19          12         129          44           3           5           1           2           1           1           1           1           1           1           1           1           1           1         292           1
+#  Timestep    No_Moles    No_Specs         Fe3          Fe         Fe2        Fe10         Fe4         Fe5         Fe7   O168Fe175         OFe     O12Fe13       O3Fe4       O2Fe2        O2Fe     O23Fe21           O          O2
+        600         441          16          13          83          35           1           9           4           3           1           1           1           2           1           1           1         284           1
+#  Timestep    No_Moles    No_Specs         Fe4          Fe         Fe3         Fe2        Fe12         Fe6         Fe5        Fe10         Fe8         Fe9   O168Fe183         Fe7     O27Fe27       O3Fe3     O12Fe16       O3Fe4        OFe3        O2Fe       O4Fe4           O          O2
+        700         396          21           9          48          16          27           1           1           4           1           1           1           1           1           1           1           1           1           1           2           1         276           1
+#  Timestep    No_Moles    No_Specs         Fe4          Fe         Fe3         Fe5        Fe12         Fe6         Fe2   O223Fe259        Fe10         Fe8         Fe7        O2Fe       O3Fe2           O          O2
+        800         372          15           4          42          20           6           1           1          20           1           1           1           2           1           1         270           1
+#  Timestep    No_Moles    No_Specs         Fe4         Fe5         Fe3          Fe        Fe12         Fe6         Fe2   O227Fe265         Fe7        Fe10         Fe8        OFe3       O4Fe2        O2Fe           O          O2
+        900         358          16           9           6          10          42           1           2          14           1           3           1           1           1           1           1         264           1
+#  Timestep    No_Moles    No_Specs         Fe4         Fe6         Fe3        Fe10         Fe5         Fe2          Fe   O232Fe271         Fe7         Fe8        OFe2        OFe3       O4Fe2         OFe           O          O2
+       1000         347          16           7           4          11           2           3          21          30           1           3           1           1           1           1           1         259           1
+#  Timestep    No_Moles    No_Specs         Fe4         Fe6         Fe3        Fe11         Fe5         Fe7         Fe2          Fe         Fe9   O239Fe277        Fe10        Fe16        OFe2        OFe3         OFe           O          O2
+       1100         330          17           6           1           8           2           4           3          15          26           2           1           1           1           1           1           1         256           1
+#  Timestep    No_Moles    No_Specs         Fe4         Fe2         Fe3         Fe8   O245Fe282         Fe7          Fe         Fe6        Fe10        Fe13        Fe12         Fe5        OFe3           O          O2
+       1200         326          15           9          17           6           2           1           2          26           1           2           1           1           4           1         252           1
+#  Timestep    No_Moles    No_Specs         Fe4         Fe3         Fe6         Fe2         Fe9   O248Fe299          Fe         Fe5         Fe8        Fe13        Fe20        Fe10           O          O2
+       1300         321          14           8           6           2          15           1           1          29           4           1           1           1           1         250           1
+#  Timestep    No_Moles    No_Specs   O246Fe325         Fe3         Fe6         Fe2         Fe4          Fe         Fe5         Fe9        Fe13        Fe21        Fe10         OFe           O          O2
+       1400         306          14           1           5           1          11           7          19           6           1           1           1           1           2         248           2
+#  Timestep    No_Moles    No_Specs   O258Fe355         Fe4         Fe6         Fe3         Fe2         Fe5         Fe9         Fe7          Fe        Fe14        Fe10           O          O2
+       1500         286          13           1           6           2           6           7           3           1           2          15           1           1         240           1
+#  Timestep    No_Moles    No_Specs   O259Fe366         Fe4         Fe6         Fe3         Fe2         Fe5         Fe9          Fe        Fe14         Fe8         Fe7        Fe10           O          O2
+       1600         282          14           1           4           2           5           6           3           1          16           1           1           1           1         239           1
+#  Timestep    No_Moles    No_Specs   O267Fe357         Fe4         Fe6         Fe3         Fe5        Fe10         Fe2          Fe        Fe12        Fe14         Fe7           O          O2
+       1700         270          13           1           5           2           3           4           3           2          15           1           1           1         231           1
+#  Timestep    No_Moles    No_Specs   O266Fe368         Fe4         Fe5         Fe3         Fe7        Fe10         Fe2          Fe         OFe        Fe14           O          O2
+       1800         268          12           1           5           5           1           3           3           2          14           1           1         231           1
+#  Timestep    No_Moles    No_Specs   O268Fe368         Fe4         Fe5         Fe3         Fe7        Fe12        Fe10         Fe2          Fe         OFe        Fe14           O          O2
+       1900         265          13           1           5           4           1           2           1           3           2          14           1           1         229           1
+#  Timestep    No_Moles    No_Specs   O269Fe379         Fe4         Fe9         Fe3         Fe7        Fe12         Fe5         Fe2          Fe         OFe       OFe14        Fe10         Fe6           O          O2
+       2000         259          15           1           4           1           1           2           1           2           2          12           1           1           2           1         227           1
+#  Timestep    No_Moles    No_Specs   O272Fe399         Fe4         Fe8         Fe3         Fe7        Fe12         Fe2          Fe        OFe5        Fe10         Fe6           O          O2
+       2100         255          13           1           4           1           1           2           1           2          13           1           2           1         225           1
+#  Timestep    No_Moles    No_Specs   O272Fe405         Fe4        Fe10         Fe3         Fe7        Fe12         Fe2          Fe         OFe        Fe17           O          O2
+       2200         251          12           1           5           2           1           1           1           2          10           2           1         224           1
+#  Timestep    No_Moles    No_Specs   O273Fe406         Fe4        Fe14        OFe3         Fe7        Fe12         Fe2          Fe        OFe4        Fe27           O          O2
+       2300         247          12           1           3           1           1           1           1           2          11           1           1         223           1
+#  Timestep    No_Moles    No_Specs   O274Fe438         Fe4        Fe14        OFe3         Fe7        Fe12         Fe2          Fe        OFe4           O          O2
+       2400         243          11           1           2           1           1           1           1           2          10           1         222           1
+#  Timestep    No_Moles    No_Specs   O277Fe439         Fe4        Fe11        OFe3        Fe19         Fe2          Fe        OFe4         Fe3           O          O2
+       2500         239          11           1           2           1           1           1           2           9           1           1         219           1
+#  Timestep    No_Moles    No_Specs   O281Fe439         Fe4        Fe11         Fe3       OFe21         Fe2          Fe        OFe4           O          O2
+       2600         234          10           1           2           1           2           1           1           9           1         215           1
+#  Timestep    No_Moles    No_Specs   O282Fe440         Fe4        Fe14        OFe3       OFe10        Fe11         Fe2          Fe        OFe4           O          O2
+       2700         231          11           1           2           1           1           1           1           1           8           1         213           1
+#  Timestep    No_Moles    No_Specs   O283Fe446        Fe17        OFe3       OFe21         Fe4         Fe2          Fe           O          O2
+       2800         227           9           1           1           1           1           1           1           7         213           1
+#  Timestep    No_Moles    No_Specs   O286Fe445        Fe17       O2Fe3       OFe21         Fe4         Fe2          Fe           O          O2
+       2900         224           9           1           1           1           1           1           1           8         209           1
+#  Timestep    No_Moles    No_Specs   O286Fe446         Fe6        Fe12       O2Fe3       OFe21         Fe4         Fe2          Fe           O          O2
+       3000         223          10           1           1           1           1           1           1           1           6         209           1
+#  Timestep    No_Moles    No_Specs   O290Fe446        Fe18       O2Fe3        OFe7        Fe14         Fe4         Fe2          Fe           O          O2
+       3100         219          10           1           1           1           1           1           1           1           6         205           1
+#  Timestep    No_Moles    No_Specs   O291Fe446        Fe18        OFe3       OFe21         Fe4         Fe2          Fe           O          O2
+       3200         218           9           1           1           1           1           1           1           6         205           1
+#  Timestep    No_Moles    No_Specs   O292Fe444        OFe7        Fe11        OFe2       OFe20         OFe         Fe4         Fe2          Fe           O          O2
+       3300         218          11           1           1           1           2           1           1           1           1           7         201           1
+#  Timestep    No_Moles    No_Specs   O294Fe444       OFe18       O2Fe3       OFe20         Fe4         Fe2          Fe        OFe2           O          O2
+       3400         214          10           1           1           1           1           1           1           7           1         199           1
+#  Timestep    No_Moles    No_Specs   O296Fe446       OFe18       O2Fe3       OFe20         Fe4         Fe2          Fe           O          O2
+       3500         212           9           1           1           1           1           1           1           7         198           1
+#  Timestep    No_Moles    No_Specs   O296Fe446        Fe17       O2Fe3       OFe21         Fe4         Fe2          Fe           O          O2
+       3600         213           9           1           1           1           1           1           1           7         199           1
+#  Timestep    No_Moles    No_Specs   O298Fe446       OFe18       O2Fe3       OFe21         Fe4         Fe2          Fe           O          O2
+       3700         209           9           1           1           1           1           1           1           6         196           1
+#  Timestep    No_Moles    No_Specs   O299Fe445       OFe18       O2Fe3       OFe21         Fe4         Fe2          Fe           O          O2
+       3800         209           9           1           1           1           1           1           1           7         195           1
+#  Timestep    No_Moles    No_Specs   O299Fe445       OFe18       O2Fe3      O2Fe21         Fe4         Fe2          Fe         OFe           O          O2
+       3900         207          10           1           1           1           1           1           1           6           1         193           1
+#  Timestep    No_Moles    No_Specs   O300Fe445       OFe18       O2Fe3      O2Fe21         Fe4         Fe2          Fe         OFe           O          O2
+       4000         206          10           1           1           1           1           1           1           6           1         192           1
+#  Timestep    No_Moles    No_Specs   O301Fe444       OFe18       O2Fe3      O2Fe21        OFe4         Fe2          Fe         OFe           O          O2
+       4100         204          10           1           1           1           1           1           2           5           1         190           1
+#  Timestep    No_Moles    No_Specs   O305Fe446       OFe18       O2Fe3      O2Fe20        OFe4          Fe         Fe2         OFe           O          O2
+       4200         200          10           1           1           1           1           1           6           1           1         186           1
+#  Timestep    No_Moles    No_Specs   O306Fe447       OFe18       O3Fe3      O2Fe20        OFe4          Fe         Fe2        O2Fe           O          O2
+       4300         196          10           1           1           1           1           1           5           1           1         183           1
+#  Timestep    No_Moles    No_Specs   O309Fe448       OFe18       O3Fe3      O2Fe21        OFe4         Fe2          Fe         OFe           O          O2
+       4400         192          10           1           1           1           1           1           1           3           1         181           1
+#  Timestep    No_Moles    No_Specs   O309Fe447       OFe18       O3Fe3      O2Fe21        OFe4         Fe2         OFe        O2Fe          Fe           O          O2
+       4500         191          11           1           1           1           1           1           1           1           1           3         179           1
+#  Timestep    No_Moles    No_Specs   O311Fe448       OFe18       O3Fe3      O2Fe21        OFe4         Fe2         OFe          Fe           O          O2
+       4600         189          10           1           1           1           1           1           1           1           3         177           2
+#  Timestep    No_Moles    No_Specs   O313Fe448       OFe18       O3Fe3      O2Fe21        OFe4         Fe2         OFe        O2Fe          Fe           O          O2
+       4700         186          11           1           1           1           1           1           1           1           1           2         175           1
+#  Timestep    No_Moles    No_Specs   O315Fe448       OFe18       O3Fe3      O2Fe21        OFe4         Fe2          Fe         OFe           O          O2
+       4800         186          10           1           1           1           1           1           1           3           1         175           1
+#  Timestep    No_Moles    No_Specs   O316Fe448       OFe18       O3Fe3      O3Fe21        OFe4         Fe2         OFe        O2Fe          Fe           O          O2
+       4900         182          11           1           1           1           1           1           1           1           1           2         171           1
+#  Timestep    No_Moles    No_Specs   O319Fe448       OFe18       O3Fe3      O3Fe21        OFe4         Fe2         OFe        O3Fe          Fe           O          O2
+       5000         178          11           1           1           1           1           1           1           1           1           2         167           1
+#  Timestep    No_Moles    No_Specs   O319Fe448       OFe18       O3Fe3      O3Fe21        OFe4         Fe2         OFe        O2Fe          Fe           O          O2
+       5100         179          11           1           1           1           1           1           1           1           1           2         168           1
+#  Timestep    No_Moles    No_Specs   O320Fe447       OFe18       O4Fe3      O3Fe21        OFe4         Fe2         OFe        O2Fe          Fe           O          O2
+       5200         178          11           1           1           1           1           1           1           1           1           3         166           1
+#  Timestep    No_Moles    No_Specs   O321Fe447       OFe18       O4Fe3      O3Fe21       O2Fe4         Fe2         OFe        O3Fe          Fe           O          O2
+       5300         175          11           1           1           1           1           1           1           1           1           3         163           1
+#  Timestep    No_Moles    No_Specs   O323Fe445       OFe18       O4Fe3      O3Fe21       O3Fe4         Fe2         OFe        O3Fe          Fe        OFe2           O          O2
+       5400         172          12           1           1           1           1           1           1           1           1           3           1         159           1
+#  Timestep    No_Moles    No_Specs   O324Fe440       OFe18       O3Fe3      O3Fe21       O3Fe4         Fe2         OFe       O2Fe8        O3Fe          Fe           O          O2
+       5500         170          12           1           1           1           1           1           1           1           1           1           2         158           1
+#  Timestep    No_Moles    No_Specs   O324Fe440       OFe18       O3Fe3      O3Fe21       O3Fe4         Fe2         OFe       O2Fe8        O2Fe          Fe           O          O2
+       5600         171          12           1           1           1           1           1           1           1           1           1           2         159           1
+#  Timestep    No_Moles    No_Specs   O326Fe440       OFe18       O3Fe3      O4Fe21       O2Fe4         Fe2         OFe       O2Fe8        O2Fe          Fe           O          O2
+       5700         169          12           1           1           1           1           1           1           1           1           1           2         157           1
+#  Timestep    No_Moles    No_Specs   O328Fe448       OFe18       O3Fe3      O4Fe21       O3Fe4         Fe2         OFe        O2Fe          Fe           O          O2
+       5800         167          11           1           1           1           1           1           1           1           1           2         156           1
+#  Timestep    No_Moles    No_Specs   O329Fe448       OFe18       O3Fe3      O4Fe21       O3Fe4         Fe2         OFe        O2Fe          Fe           O          O2
+       5900         166          11           1           1           1           1           1           1           1           1           2         155           1
+#  Timestep    No_Moles    No_Specs   O329Fe448       OFe18       O4Fe3      O4Fe21       O3Fe4         Fe2         OFe        O2Fe          Fe           O          O2
+       6000         165          11           1           1           1           1           1           1           1           1           2         154           1
+#  Timestep    No_Moles    No_Specs   O329Fe448       OFe18       O4Fe3      O4Fe21       O3Fe4         Fe2         OFe        O2Fe          Fe           O          O2
+       6100         165          11           1           1           1           1           1           1           1           1           2         154           1
+#  Timestep    No_Moles    No_Specs   O329Fe447      O5Fe39       O3Fe3       O3Fe4          Fe         Fe2         OFe        O2Fe           O          O2
+       6200         166          10           1           1           1           1           3           1           1           1         155           1
+#  Timestep    No_Moles    No_Specs   O329Fe440      O5Fe39       O3Fe3       O3Fe4         Fe2         OFe       O2Fe8        O2Fe          Fe           O          O2
+       6300         164          11           1           1           1           1           1           1           1           1           2         153           1
+#  Timestep    No_Moles    No_Specs   O329Fe440      O5Fe39       O4Fe3       O2Fe4         Fe2         OFe       O2Fe8        O2Fe          Fe           O          O2
+       6400         164          11           1           1           1           1           1           1           1           1           2         153           1
+#  Timestep    No_Moles    No_Specs   O334Fe448      O5Fe39       O4Fe3       O2Fe4         Fe2         OFe        O2Fe          Fe           O          O2
+       6500         160          10           1           1           1           1           1           1           1           2         150           1
+#  Timestep    No_Moles    No_Specs   O334Fe448       OFe18       O4Fe3      O4Fe21       O3Fe4         Fe2         OFe        O2Fe          Fe           O          O2
+       6600         160          11           1           1           1           1           1           1           1           1           2         149           1
+#  Timestep    No_Moles    No_Specs   O337Fe448       OFe18       O4Fe3      O4Fe21       O3Fe4        OFe3        O2Fe          Fe           O          O2
+       6700         156          10           1           1           1           1           1           1           1           2         146           1
+#  Timestep    No_Moles    No_Specs   O338Fe448       OFe18       O4Fe3      O4Fe21       O3Fe4        OFe3        O2Fe          Fe           O          O2
+       6800         155          10           1           1           1           1           1           1           1           2         145           1
+#  Timestep    No_Moles    No_Specs   O338Fe448      O2Fe18       O4Fe3      O5Fe21       O3Fe4        OFe3        O2Fe          Fe           O          O2
+       6900         153          10           1           1           1           1           1           1           1           2         143           1
+#  Timestep    No_Moles    No_Specs   O339Fe448      O2Fe18       O4Fe3      O5Fe21       O3Fe4        OFe3        O2Fe          Fe           O          O2
+       7000         152          10           1           1           1           1           1           1           1           2         142           1
+#  Timestep    No_Moles    No_Specs   O339Fe448      O2Fe18       O4Fe3      O5Fe21       O3Fe4        OFe3        O2Fe          Fe           O          O2
+       7100         152          10           1           1           1           1           1           1           1           2         142           1
+#  Timestep    No_Moles    No_Specs   O339Fe448      O7Fe39       O4Fe3       O4Fe4        OFe3        O2Fe          Fe           O          O2
+       7200         150           9           1           1           1           1           1           1           2         141           1
+#  Timestep    No_Moles    No_Specs   O338Fe448      O8Fe39       O5Fe3       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       7300         148           9           1           1           1           1           1           1           2         139           1
+#  Timestep    No_Moles    No_Specs   O345Fe448      O9Fe39       O5Fe3       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       7400         140           9           1           1           1           1           1           1           2         131           1
+#  Timestep    No_Moles    No_Specs   O347Fe448      O9Fe39       O5Fe3       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       7500         138           9           1           1           1           1           1           1           2         129           1
+#  Timestep    No_Moles    No_Specs   O347Fe448      O9Fe39       O5Fe3       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       7600         138           9           1           1           1           1           1           1           2         129           1
+#  Timestep    No_Moles    No_Specs   O352Fe448     O10Fe39       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       7700         131           8           1           1           2           1           1           1         123           1
+#  Timestep    No_Moles    No_Specs   O353Fe448     O10Fe39       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       7800         130           8           1           1           2           1           1           1         122           1
+#  Timestep    No_Moles    No_Specs   O353Fe448     O11Fe39       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       7900         129           8           1           1           2           1           1           1         121           1
+#  Timestep    No_Moles    No_Specs   O355Fe448     O11Fe39       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       8000         127           8           1           1           2           1           1           1         119           1
+#  Timestep    No_Moles    No_Specs   O354Fe448     O11Fe39       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       8100         128           8           1           1           2           1           1           1         120           1
+#  Timestep    No_Moles    No_Specs   O355Fe449     O11Fe38       O5Fe4        OFe3        O2Fe         OFe           O          O2
+       8200         126           8           1           1           2           1           1           1         118           1
+#  Timestep    No_Moles    No_Specs   O356Fe449     O12Fe39       O5Fe4        OFe3        O2Fe           O          O2
+       8300         124           7           1           1           2           1           1         117           1
+#  Timestep    No_Moles    No_Specs   O356Fe449     O12Fe39       O5Fe4        OFe3        O2Fe           O          O2
+       8400         124           7           1           1           2           1           1         117           1
+#  Timestep    No_Moles    No_Specs   O356Fe449      O4Fe17       O5Fe4      O8Fe22        OFe3        O2Fe           O          O2
+       8500         125           8           1           1           2           1           1           1         117           1
+#  Timestep    No_Moles    No_Specs   O356Fe449     O12Fe39       O5Fe4        OFe3        O2Fe           O          O2
+       8600         124           7           1           1           2           1           1         117           1
+#  Timestep    No_Moles    No_Specs   O357Fe449     O12Fe39       O5Fe4        OFe3        O2Fe           O          O2
+       8700         123           7           1           1           2           1           1         116           1
+#  Timestep    No_Moles    No_Specs   O360Fe449     O12Fe39       O5Fe4        OFe3        O2Fe           O          O2
+       8800         120           7           1           1           2           1           1         113           1
+#  Timestep    No_Moles    No_Specs   O360Fe449     O12Fe39       O5Fe4        OFe3        O2Fe           O          O2
+       8900         120           7           1           1           2           1           1         113           1
+#  Timestep    No_Moles    No_Specs   O361Fe449     O12Fe39       O5Fe4        OFe3        O2Fe           O          O2
+       9000         119           7           1           1           2           1           1         112           1
+#  Timestep    No_Moles    No_Specs   O361Fe449     O12Fe39       O5Fe4        OFe3        O2Fe           O          O2
+       9100         119           7           1           1           2           1           1         112           1
+#  Timestep    No_Moles    No_Specs   O362Fe449     O12Fe38       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       9200         119           8           1           1           2           1           1           1         111           1
+#  Timestep    No_Moles    No_Specs   O362Fe449     O12Fe38       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       9300         119           8           1           1           2           1           1           1         111           1
+#  Timestep    No_Moles    No_Specs   O362Fe449     O12Fe38       O5Fe4        OFe3        O2Fe          Fe           O          O2
+       9400         119           8           1           1           2           1           1           1         111           1
+#  Timestep    No_Moles    No_Specs   O363Fe449     O12Fe39       O5Fe4        OFe3        O2Fe           O          O2
+       9500         117           7           1           1           2           1           1         110           1
+#  Timestep    No_Moles    No_Specs   O365Fe449     O12Fe39       O5Fe4       O2Fe3        O2Fe           O          O2
+       9600         114           7           1           1           2           1           1         107           1
+#  Timestep    No_Moles    No_Specs   O367Fe449     O12Fe39       O5Fe4       O2Fe3        O2Fe           O          O2
+       9700         112           7           1           1           2           1           1         105           1
+#  Timestep    No_Moles    No_Specs   O368Fe449     O17Fe43       O5Fe4       O2Fe3        O2Fe           O          O2
+       9800         110           7           1           1           1           1           1         104           1
+#  Timestep    No_Moles    No_Specs   O368Fe449     O17Fe43       O5Fe4        OFe3        O2Fe           O          O2
+       9900         111           7           1           1           1           1           1         105           1
+#  Timestep    No_Moles    No_Specs   O368Fe449     O17Fe43       O5Fe4        OFe3        O2Fe           O          O2
+      10000         111           7           1           1           1           1           1         105           1
+#  Timestep    No_Moles    No_Specs   O371Fe449     O17Fe43       O5Fe4        OFe3        O2Fe           O          O2
+      10100         108           7           1           1           1           1           1         102           1
+#  Timestep    No_Moles    No_Specs   O373Fe452     O17Fe43       O5Fe4        O2Fe           O          O2
+      10200         106           6           1           1           1           1         101           1
+#  Timestep    No_Moles    No_Specs   O373Fe449     O17Fe43       O5Fe4       O2Fe3        O2Fe           O          O2
+      10300         105           7           1           1           1           1           1          99           1
+#  Timestep    No_Moles    No_Specs   O375Fe452     O17Fe43       O5Fe4        O2Fe           O          O2
+      10400         104           6           1           1           1           1          99           1
+#  Timestep    No_Moles    No_Specs   O377Fe452     O17Fe43       O5Fe4        O2Fe           O          O2
+      10500         102           6           1           1           1           1          97           1
+#  Timestep    No_Moles    No_Specs   O378Fe452     O17Fe43       O5Fe4        O2Fe           O          O2
+      10600         101           6           1           1           1           1          96           1
+#  Timestep    No_Moles    No_Specs   O380Fe452     O17Fe43       O5Fe4        O2Fe           O          O2
+      10700          99           6           1           1           1           1          94           1
+#  Timestep    No_Moles    No_Specs   O382Fe452     O18Fe43       O5Fe4        O2Fe           O          O2
+      10800          96           6           1           1           1           1          91           1
+#  Timestep    No_Moles    No_Specs   O384Fe452     O18Fe43       O5Fe4        O2Fe           O          O2
+      10900          94           6           1           1           1           1          89           1
+#  Timestep    No_Moles    No_Specs   O387Fe452     O18Fe43       O5Fe4        O2Fe           O          O2
+      11000          91           6           1           1           1           1          86           1
+#  Timestep    No_Moles    No_Specs   O387Fe452     O18Fe43       O5Fe4        O2Fe           O          O2
+      11100          91           6           1           1           1           1          86           1
+#  Timestep    No_Moles    No_Specs   O387Fe452     O18Fe43       O5Fe4        O2Fe           O          O2
+      11200          91           6           1           1           1           1          86           1
+#  Timestep    No_Moles    No_Specs   O386Fe452     O18Fe43       O5Fe4        O2Fe           O          O2
+      11300          92           6           1           1           1           1          87           1
+#  Timestep    No_Moles    No_Specs   O391Fe453     O19Fe43       O5Fe4           O          O2
+      11400          87           5           1           1           1          83           1
+#  Timestep    No_Moles    No_Specs   O392Fe453     O20Fe43       O5Fe4           O          O2
+      11500          85           5           1           1           1          81           1
+#  Timestep    No_Moles    No_Specs   O393Fe453     O20Fe43       O5Fe4           O          O2
+      11600          84           5           1           1           1          80           1
+#  Timestep    No_Moles    No_Specs   O392Fe453     O20Fe43       O5Fe4           O          O2
+      11700          85           5           1           1           1          81           1
+#  Timestep    No_Moles    No_Specs   O392Fe453     O20Fe43       O5Fe4           O          O2
+      11800          85           5           1           1           1          81           1
+#  Timestep    No_Moles    No_Specs   O413Fe496       O6Fe4           O          O2
+      11900          82           4           1           1          79           1
+#  Timestep    No_Moles    No_Specs   O415Fe496       O6Fe4           O          O2
+      12000          80           4           1           1          77           1
+#  Timestep    No_Moles    No_Specs   O416Fe496       O6Fe4           O          O2
+      12100          79           4           1           1          76           1
+#  Timestep    No_Moles    No_Specs   O416Fe496       O6Fe4           O          O2
+      12200          79           4           1           1          76           1
+#  Timestep    No_Moles    No_Specs   O418Fe496       O6Fe4           O          O2
+      12300          77           4           1           1          74           1
+#  Timestep    No_Moles    No_Specs   O418Fe496       O6Fe4           O          O2
+      12400          77           4           1           1          74           1
+#  Timestep    No_Moles    No_Specs   O425Fe500           O          O2
+      12500          75           3           1          73           1
+#  Timestep    No_Moles    No_Specs   O425Fe500           O          O2
+      12600          75           3           1          73           1
+#  Timestep    No_Moles    No_Specs   O427Fe500           O          O2
+      12700          73           3           1          71           1
+#  Timestep    No_Moles    No_Specs   O427Fe500           O          O2
+      12800          73           3           1          71           1
+#  Timestep    No_Moles    No_Specs   O428Fe500           O          O2
+      12900          72           3           1          70           1
+#  Timestep    No_Moles    No_Specs   O428Fe500           O          O2
+      13000          72           3           1          70           1
+#  Timestep    No_Moles    No_Specs   O429Fe500           O          O2
+      13100          71           3           1          69           1
+#  Timestep    No_Moles    No_Specs   O428Fe500           O          O2
+      13200          72           3           1          70           1
+#  Timestep    No_Moles    No_Specs   O429Fe500           O          O2
+      13300          71           3           1          69           1
+#  Timestep    No_Moles    No_Specs   O430Fe500           O          O2
+      13400          70           3           1          68           1
+#  Timestep    No_Moles    No_Specs   O430Fe500           O          O2
+      13500          70           3           1          68           1
+#  Timestep    No_Moles    No_Specs   O432Fe500           O          O2
+      13600          68           3           1          66           1
+#  Timestep    No_Moles    No_Specs   O434Fe500           O          O2
+      13700          66           3           1          64           1
+#  Timestep    No_Moles    No_Specs   O436Fe500           O          O2
+      13800          64           3           1          62           1
+#  Timestep    No_Moles    No_Specs   O436Fe500           O          O2
+      13900          64           3           1          62           1
+#  Timestep    No_Moles    No_Specs   O436Fe500           O          O2
+      14000          64           3           1          62           1
+#  Timestep    No_Moles    No_Specs   O436Fe500           O          O2
+      14100          64           3           1          62           1
+#  Timestep    No_Moles    No_Specs   O437Fe500           O          O2
+      14200          63           3           1          61           1
+#  Timestep    No_Moles    No_Specs   O437Fe500           O          O2
+      14300          63           3           1          61           1
+#  Timestep    No_Moles    No_Specs   O437Fe500           O          O2
+      14400          63           3           1          61           1
+#  Timestep    No_Moles    No_Specs   O437Fe500           O          O2
+      14500          63           3           1          61           1
+#  Timestep    No_Moles    No_Specs   O437Fe500           O          O2
+      14600          63           3           1          61           1
+#  Timestep    No_Moles    No_Specs   O437Fe500           O          O2
+      14700          63           3           1          61           1
+#  Timestep    No_Moles    No_Specs   O437Fe500           O          O2
+      14800          63           3           1          61           1
+#  Timestep    No_Moles    No_Specs   O437Fe500           O          O2
+      14900          63           3           1          61           1
+#  Timestep    No_Moles    No_Specs   O438Fe500           O          O2
+      15000          62           3           1          60           1
+#  Timestep    No_Moles    No_Specs   O438Fe500           O          O2
+      15100          62           3           1          60           1
+#  Timestep    No_Moles    No_Specs   O440Fe500           O          O2
+      15200          60           3           1          58           1
+#  Timestep    No_Moles    No_Specs   O440Fe500           O          O2
+      15300          60           3           1          58           1
+#  Timestep    No_Moles    No_Specs   O440Fe500           O          O2
+      15400          60           3           1          58           1
+#  Timestep    No_Moles    No_Specs   O440Fe500           O          O2
+      15500          60           3           1          58           1
+#  Timestep    No_Moles    No_Specs   O442Fe500           O          O2
+      15600          58           3           1          56           1
+#  Timestep    No_Moles    No_Specs   O443Fe500           O          O2
+      15700          57           3           1          55           1
+#  Timestep    No_Moles    No_Specs   O443Fe500           O          O2
+      15800          57           3           1          55           1
+#  Timestep    No_Moles    No_Specs   O444Fe500           O          O2
+      15900          56           3           1          54           1
+#  Timestep    No_Moles    No_Specs   O445Fe500           O          O2
+      16000          55           3           1          53           1
+#  Timestep    No_Moles    No_Specs   O446Fe500           O          O2
+      16100          54           3           1          52           1
+#  Timestep    No_Moles    No_Specs   O447Fe500           O          O2
+      16200          53           3           1          51           1
+#  Timestep    No_Moles    No_Specs   O448Fe500           O          O2
+      16300          52           3           1          50           1
+#  Timestep    No_Moles    No_Specs   O448Fe500           O          O2
+      16400          52           3           1          50           1
+#  Timestep    No_Moles    No_Specs   O450Fe500           O          O2
+      16500          50           3           1          48           1
+#  Timestep    No_Moles    No_Specs   O450Fe500           O          O2
+      16600          50           3           1          48           1
+#  Timestep    No_Moles    No_Specs   O451Fe500           O          O2
+      16700          49           3           1          47           1
+#  Timestep    No_Moles    No_Specs   O451Fe500           O          O2
+      16800          49           3           1          47           1
+#  Timestep    No_Moles    No_Specs   O451Fe500           O          O2
+      16900          49           3           1          47           1
+#  Timestep    No_Moles    No_Specs   O451Fe500           O          O2
+      17000          49           3           1          47           1
+#  Timestep    No_Moles    No_Specs   O451Fe500           O          O2
+      17100          49           3           1          47           1
+#  Timestep    No_Moles    No_Specs   O451Fe500           O          O2
+      17200          49           3           1          47           1
+#  Timestep    No_Moles    No_Specs   O452Fe500           O          O2
+      17300          48           3           1          46           1
+#  Timestep    No_Moles    No_Specs   O452Fe500           O          O2
+      17400          48           3           1          46           1
+#  Timestep    No_Moles    No_Specs   O452Fe500           O          O2
+      17500          48           3           1          46           1
+#  Timestep    No_Moles    No_Specs   O453Fe500           O          O2
+      17600          47           3           1          45           1
+#  Timestep    No_Moles    No_Specs   O453Fe500           O          O2
+      17700          47           3           1          45           1
+#  Timestep    No_Moles    No_Specs   O453Fe500           O          O2
+      17800          47           3           1          45           1
+#  Timestep    No_Moles    No_Specs   O454Fe500           O          O2
+      17900          46           3           1          44           1
+#  Timestep    No_Moles    No_Specs   O454Fe500           O          O2
+      18000          46           3           1          44           1
+#  Timestep    No_Moles    No_Specs   O457Fe500           O          O2
+      18100          43           3           1          41           1
+#  Timestep    No_Moles    No_Specs   O457Fe500           O          O2
+      18200          43           3           1          41           1
+#  Timestep    No_Moles    No_Specs   O458Fe500           O          O2
+      18300          42           3           1          40           1
+#  Timestep    No_Moles    No_Specs   O457Fe500           O          O2
+      18400          43           3           1          41           1
+#  Timestep    No_Moles    No_Specs   O457Fe500           O          O2
+      18500          43           3           1          41           1
+#  Timestep    No_Moles    No_Specs   O459Fe500           O          O2
+      18600          41           3           1          39           1
+#  Timestep    No_Moles    No_Specs   O460Fe499          Fe           O          O2
+      18700          41           4           1           1          38           1
+#  Timestep    No_Moles    No_Specs   O461Fe500           O          O2
+      18800          39           3           1          37           1
+#  Timestep    No_Moles    No_Specs   O461Fe500           O          O2
+      18900          39           3           1          37           1
+#  Timestep    No_Moles    No_Specs   O461Fe500           O          O2
+      19000          39           3           1          37           1
+#  Timestep    No_Moles    No_Specs   O462Fe500           O          O2
+      19100          38           3           1          36           1
+#  Timestep    No_Moles    No_Specs   O462Fe500           O          O2
+      19200          38           3           1          36           1
+#  Timestep    No_Moles    No_Specs   O462Fe500           O          O2
+      19300          38           3           1          36           1
+#  Timestep    No_Moles    No_Specs   O462Fe500           O          O2
+      19400          38           3           1          36           1
+#  Timestep    No_Moles    No_Specs   O462Fe500           O          O2
+      19500          38           3           1          36           1
+#  Timestep    No_Moles    No_Specs   O462Fe500           O          O2
+      19600          38           3           1          36           1
+#  Timestep    No_Moles    No_Specs   O463Fe500           O          O2
+      19700          37           3           1          35           1
+#  Timestep    No_Moles    No_Specs   O463Fe500           O          O2
+      19800          37           3           1          35           1
+#  Timestep    No_Moles    No_Specs   O463Fe500           O          O2
+      19900          37           3           1          35           1
+#  Timestep    No_Moles    No_Specs   O463Fe500           O          O2
+      20000          37           3           1          35           1
+#  Timestep    No_Moles    No_Specs   O463Fe500           O          O2
+      20100          37           3           1          35           1
+#  Timestep    No_Moles    No_Specs   O463Fe500           O          O2
+      20200          37           3           1          35           1
+#  Timestep    No_Moles    No_Specs   O464Fe500           O          O2
+      20300          36           3           1          34           1
+#  Timestep    No_Moles    No_Specs   O465Fe500           O          O2
+      20400          35           3           1          33           1
+#  Timestep    No_Moles    No_Specs   O465Fe500           O          O2
+      20500          35           3           1          33           1
+#  Timestep    No_Moles    No_Specs   O465Fe500           O          O2
+      20600          35           3           1          33           1
+#  Timestep    No_Moles    No_Specs   O465Fe500           O          O2
+      20700          35           3           1          33           1
+#  Timestep    No_Moles    No_Specs   O466Fe500           O          O2
+      20800          34           3           1          32           1
+#  Timestep    No_Moles    No_Specs   O466Fe500           O          O2
+      20900          34           3           1          32           1
+#  Timestep    No_Moles    No_Specs   O466Fe500           O          O2
+      21000          34           3           1          32           1
+#  Timestep    No_Moles    No_Specs   O466Fe500           O          O2
+      21100          34           3           1          32           1
+#  Timestep    No_Moles    No_Specs   O466Fe500           O          O2
+      21200          34           3           1          32           1
+#  Timestep    No_Moles    No_Specs   O467Fe500           O          O2
+      21300          33           3           1          31           1
+#  Timestep    No_Moles    No_Specs   O467Fe500           O          O2
+      21400          33           3           1          31           1
+#  Timestep    No_Moles    No_Specs   O467Fe500           O          O2
+      21500          33           3           1          31           1
+#  Timestep    No_Moles    No_Specs   O467Fe500           O          O2
+      21600          33           3           1          31           1
+#  Timestep    No_Moles    No_Specs   O469Fe500           O          O2
+      21700          31           3           1          29           1
+#  Timestep    No_Moles    No_Specs   O470Fe500           O          O2
+      21800          30           3           1          28           1
+#  Timestep    No_Moles    No_Specs   O470Fe500           O          O2
+      21900          30           3           1          28           1
+#  Timestep    No_Moles    No_Specs   O470Fe500           O          O2
+      22000          30           3           1          28           1
+#  Timestep    No_Moles    No_Specs   O470Fe500           O          O2
+      22100          30           3           1          28           1
+#  Timestep    No_Moles    No_Specs   O471Fe500           O          O2
+      22200          29           3           1          27           1
+#  Timestep    No_Moles    No_Specs   O471Fe500           O          O2
+      22300          29           3           1          27           1
+#  Timestep    No_Moles    No_Specs   O471Fe500           O          O2
+      22400          29           3           1          27           1
+#  Timestep    No_Moles    No_Specs   O471Fe500           O          O2
+      22500          29           3           1          27           1
+#  Timestep    No_Moles    No_Specs   O471Fe500           O          O2
+      22600          29           3           1          27           1
+#  Timestep    No_Moles    No_Specs   O471Fe500           O          O2
+      22700          29           3           1          27           1
+#  Timestep    No_Moles    No_Specs   O471Fe500           O          O2
+      22800          29           3           1          27           1
+#  Timestep    No_Moles    No_Specs   O474Fe500           O          O2
+      22900          26           3           1          24           1
+#  Timestep    No_Moles    No_Specs   O474Fe500           O          O2
+      23000          26           3           1          24           1
+#  Timestep    No_Moles    No_Specs   O474Fe500           O          O2
+      23100          26           3           1          24           1
+#  Timestep    No_Moles    No_Specs   O472Fe500           O          O2
+      23200          28           3           1          26           1
+#  Timestep    No_Moles    No_Specs   O474Fe500           O          O2
+      23300          26           3           1          24           1
+#  Timestep    No_Moles    No_Specs   O474Fe500           O          O2
+      23400          26           3           1          24           1
+#  Timestep    No_Moles    No_Specs   O474Fe500           O          O2
+      23500          26           3           1          24           1
+#  Timestep    No_Moles    No_Specs   O474Fe500           O          O2
+      23600          26           3           1          24           1
+#  Timestep    No_Moles    No_Specs   O474Fe500           O          O2
+      23700          26           3           1          24           1
+#  Timestep    No_Moles    No_Specs   O474Fe500           O          O2
+      23800          26           3           1          24           1
+#  Timestep    No_Moles    No_Specs   O474Fe500           O          O2
+      23900          26           3           1          24           1
+#  Timestep    No_Moles    No_Specs   O475Fe500           O          O2
+      24000          25           3           1          23           1
+#  Timestep    No_Moles    No_Specs   O475Fe500           O          O2
+      24100          25           3           1          23           1
+#  Timestep    No_Moles    No_Specs   O475Fe500           O          O2
+      24200          25           3           1          23           1
+#  Timestep    No_Moles    No_Specs   O475Fe500           O          O2
+      24300          25           3           1          23           1
+#  Timestep    No_Moles    No_Specs   O475Fe500           O          O2
+      24400          25           3           1          23           1
+#  Timestep    No_Moles    No_Specs   O475Fe500           O          O2
+      24500          25           3           1          23           1
+#  Timestep    No_Moles    No_Specs   O476Fe500           O          O2
+      24600          24           3           1          22           1
+#  Timestep    No_Moles    No_Specs   O476Fe500           O          O2
+      24700          24           3           1          22           1
+#  Timestep    No_Moles    No_Specs   O477Fe500           O          O2
+      24800          23           3           1          21           1
+#  Timestep    No_Moles    No_Specs   O477Fe500           O          O2
+      24900          23           3           1          21           1
+#  Timestep    No_Moles    No_Specs   O479Fe500           O
+      25000          22           2           1          21
+#  Timestep    No_Moles    No_Specs   O477Fe500           O          O2
+      25100          23           3           1          21           1
+#  Timestep    No_Moles    No_Specs   O477Fe500           O          O2
+      25200          23           3           1          21           1
+#  Timestep    No_Moles    No_Specs   O477Fe500           O          O2
+      25300          23           3           1          21           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      25400          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      25500          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      25600          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      25700          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      25800          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      25900          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      26000          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      26100          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      26200          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      26300          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      26400          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      26500          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      26600          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      26700          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      26800          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O478Fe500           O          O2
+      26900          22           3           1          20           1
+#  Timestep    No_Moles    No_Specs   O479Fe500           O          O2
+      27000          21           3           1          19           1
+#  Timestep    No_Moles    No_Specs   O479Fe500           O          O2
+      27100          21           3           1          19           1
+#  Timestep    No_Moles    No_Specs   O480Fe500           O          O2
+      27200          20           3           1          18           1
+#  Timestep    No_Moles    No_Specs   O480Fe500           O          O2
+      27300          20           3           1          18           1
+#  Timestep    No_Moles    No_Specs   O480Fe500           O          O2
+      27400          20           3           1          18           1
+#  Timestep    No_Moles    No_Specs   O480Fe500           O          O2
+      27500          20           3           1          18           1
+#  Timestep    No_Moles    No_Specs   O480Fe500           O          O2
+      27600          20           3           1          18           1
+#  Timestep    No_Moles    No_Specs   O481Fe500           O          O2
+      27700          19           3           1          17           1
+#  Timestep    No_Moles    No_Specs   O481Fe500           O          O2
+      27800          19           3           1          17           1
+#  Timestep    No_Moles    No_Specs   O481Fe500           O          O2
+      27900          19           3           1          17           1
+#  Timestep    No_Moles    No_Specs   O481Fe500           O          O2
+      28000          19           3           1          17           1
+#  Timestep    No_Moles    No_Specs   O481Fe500           O          O2
+      28100          19           3           1          17           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      28200          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      28300          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      28400          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      28500          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      28600          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      28700          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      28800          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      28900          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      29000          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      29100          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      29200          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      29300          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      29400          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      29500          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      29600          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      29700          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      29800          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      29900          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      30000          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      30100          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O467Fe482     O16Fe18           O          O2
+      30200          18           4           1           1          15           1
+#  Timestep    No_Moles    No_Specs   O467Fe482     O16Fe18           O          O2
+      30300          18           4           1           1          15           1
+#  Timestep    No_Moles    No_Specs   O467Fe482     O16Fe18           O          O2
+      30400          18           4           1           1          15           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      30500          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      30600          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      30700          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      30800          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O482Fe500           O          O2
+      30900          18           3           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      31000          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      31100          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      31200          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      31300          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      31400          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      31500          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O466Fe482     O16Fe18           O          O2
+      31600          19           4           1           1          16           1
+#  Timestep    No_Moles    No_Specs   O467Fe482     O16Fe18           O          O2
+      31700          18           4           1           1          15           1
+#  Timestep    No_Moles    No_Specs   O467Fe482     O16Fe18           O          O2
+      31800          18           4           1           1          15           1
+#  Timestep    No_Moles    No_Specs   O467Fe482     O16Fe18           O          O2
+      31900          18           4           1           1          15           1
+#  Timestep    No_Moles    No_Specs   O467Fe482     O16Fe18           O          O2
+      32000          18           4           1           1          15           1
+#  Timestep    No_Moles    No_Specs   O468Fe482     O16Fe18           O          O2
+      32100          17           4           1           1          14           1
+#  Timestep    No_Moles    No_Specs   O468Fe482     O16Fe18           O          O2
+      32200          17           4           1           1          14           1
+#  Timestep    No_Moles    No_Specs   O469Fe482     O16Fe18           O          O2
+      32300          16           4           1           1          13           1
+#  Timestep    No_Moles    No_Specs   O469Fe482     O16Fe18           O          O2
+      32400          16           4           1           1          13           1
+#  Timestep    No_Moles    No_Specs   O469Fe482     O16Fe18           O          O2
+      32500          16           4           1           1          13           1
+#  Timestep    No_Moles    No_Specs   O469Fe482     O16Fe18           O          O2
+      32600          16           4           1           1          13           1
+#  Timestep    No_Moles    No_Specs   O469Fe482     O16Fe18           O          O2
+      32700          16           4           1           1          13           1
+#  Timestep    No_Moles    No_Specs   O470Fe482     O16Fe18           O          O2
+      32800          15           4           1           1          12           1
+#  Timestep    No_Moles    No_Specs   O470Fe482     O16Fe18           O          O2
+      32900          15           4           1           1          12           1
+#  Timestep    No_Moles    No_Specs   O470Fe482     O16Fe18           O          O2
+      33000          15           4           1           1          12           1
+#  Timestep    No_Moles    No_Specs   O469Fe482     O16Fe18           O          O2
+      33100          16           4           1           1          13           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      33200          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      33300          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      33400          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      33500          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      33600          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      33700          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      33800          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      33900          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      34000          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      34100          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      34200          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      34300          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      34400          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      34500          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      34600          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      34700          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      34800          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      34900          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      35000          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      35100          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      35200          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      35300          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      35400          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      35500          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      35600          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      35700          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      35800          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      35900          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      36000          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      36100          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      36200          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      36300          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      36400          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      36500          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      36600          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      36700          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      36800          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      36900          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      37000          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      37100          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      37200          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      37300          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      37400          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      37500          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      37600          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      37700          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      37800          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      37900          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      38000          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      38100          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      38200          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      38300          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O
+      38400          13           2           1          12
+#  Timestep    No_Moles    No_Specs   O488Fe500           O
+      38500          13           2           1          12
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      38600          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      38700          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      38800          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      38900          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      39000          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      39100          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      39200          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      39300          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      39400          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      39500          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      39600          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O486Fe500           O          O2
+      39700          14           3           1          12           1
+#  Timestep    No_Moles    No_Specs   O487Fe500           O          O2
+      39800          13           3           1          11           1
+#  Timestep    No_Moles    No_Specs   O487Fe500           O          O2
+      39900          13           3           1          11           1
+#  Timestep    No_Moles    No_Specs   O487Fe500           O          O2
+      40000          13           3           1          11           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      40100          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      40200          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      40300          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      40400          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      40500          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      40600          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      40700          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      40800          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      40900          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      41000          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      41100          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      41200          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      41300          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      41400          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      41500          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      41600          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      41700          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      41800          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      41900          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      42000          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O488Fe500           O          O2
+      42100          12           3           1          10           1
+#  Timestep    No_Moles    No_Specs   O489Fe500           O          O2
+      42200          11           3           1           9           1
+#  Timestep    No_Moles    No_Specs   O489Fe500           O          O2
+      42300          11           3           1           9           1
+#  Timestep    No_Moles    No_Specs   O489Fe500           O          O2
+      42400          11           3           1           9           1
+#  Timestep    No_Moles    No_Specs   O489Fe500           O          O2
+      42500          11           3           1           9           1
+#  Timestep    No_Moles    No_Specs   O489Fe500           O          O2
+      42600          11           3           1           9           1
+#  Timestep    No_Moles    No_Specs   O489Fe500           O          O2
+      42700          11           3           1           9           1
+#  Timestep    No_Moles    No_Specs   O489Fe500           O          O2
+      42800          11           3           1           9           1
+#  Timestep    No_Moles    No_Specs   O489Fe500           O          O2
+      42900          11           3           1           9           1
+#  Timestep    No_Moles    No_Specs   O489Fe500           O          O2
+      43000          11           3           1           9           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      43100          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      43200          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      43300          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      43400          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      43500          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      43600          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      43700          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      43800          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      43900          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      44000          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      44100          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      44200          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      44300          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      44400          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      44500          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      44600          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      44700          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      44800          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      44900          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      45000          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      45100          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      45200          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      45300          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      45400          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      45500          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      45600          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      45700          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      45800          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      45900          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      46000          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      46100           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      46200           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      46300           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      46400           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      46500           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      46600          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      46700          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      46800           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      46900           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      47000          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      47100          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      47200          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      47300          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      47400           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      47500           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      47600           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      47700           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      47800           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      47900          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      48000          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      48100          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      48200          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      48300          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      48400          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      48500          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      48600          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      48700          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      48800          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      48900          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      49000          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      49100          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      49200          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      49300          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      49400          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      49500          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      49600          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      49700          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O
+      49800           9           2           1           8
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      49900          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      50000          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      50100          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      50200          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      50300          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      50400          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      50500          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      50600          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      50700          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      50800          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      50900          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      51000          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      51100          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      51200          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      51300          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      51400          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      51500          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      51600          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      51700          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      51800          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      51900          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      52000          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      52100          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      52200          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      52300          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      52400          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      52500          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      52600          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      52700          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      52800          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      52900          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      53000          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      53100          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      53200          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      53300          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      53400          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      53500          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      53600          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      53700          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      53800          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O490Fe500           O          O2
+      53900          10           3           1           8           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      54000           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      54100           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      54200           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      54300           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      54400           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      54500           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      54600           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      54700           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      54800           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      54900           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      55000           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      55100           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      55200           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      55300           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      55400           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      55500           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      55600           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      55700           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      55800           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      55900           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      56000           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      56100           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      56200           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      56300           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      56400           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      56500           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      56600           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      56700           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      56800           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      56900           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      57000           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      57100           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      57200           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      57300           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      57400           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      57500           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      57600           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      57700           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      57800           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      57900           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      58000           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      58100           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      58200           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      58300           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      58400           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      58500           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      58600           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      58700           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      58800           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      58900           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      59000           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      59100           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      59200           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      59300           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      59400           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      59500           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O493Fe500           O
+      59600           8           2           1           7
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      59700           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      59800           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      59900           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      60000           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      60100           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      60200           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      60300           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      60400           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      60500           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      60600           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      60700           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      60800           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      60900           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      61000           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      61100           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      61200           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O493Fe500           O
+      61300           8           2           1           7
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      61400           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      61500           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O491Fe500           O          O2
+      61600           9           3           1           7           1
+#  Timestep    No_Moles    No_Specs   O493Fe500           O
+      61700           8           2           1           7
+#  Timestep    No_Moles    No_Specs   O493Fe500           O
+      61800           8           2           1           7
+#  Timestep    No_Moles    No_Specs   O494Fe500           O
+      61900           7           2           1           6
+#  Timestep    No_Moles    No_Specs   O494Fe500           O
+      62000           7           2           1           6
+#  Timestep    No_Moles    No_Specs   O494Fe500           O
+      62100           7           2           1           6
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      62200           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      62300           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      62400           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      62500           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O494Fe500           O
+      62600           7           2           1           6
+#  Timestep    No_Moles    No_Specs   O494Fe500           O
+      62700           7           2           1           6
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      62800           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      62900           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      63000           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      63100           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      63200           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      63300           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      63400           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      63500           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      63600           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      63700           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      63800           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      63900           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      64000           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      64100           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      64200           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O494Fe500           O
+      64300           7           2           1           6
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      64400           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      64500           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      64600           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      64700           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      64800           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      64900           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      65000           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      65100           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      65200           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      65300           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      65400           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      65500           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      65600           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      65700           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      65800           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      65900           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      66000           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      66100           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      66200           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      66300           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      66400           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O492Fe500           O          O2
+      66500           8           3           1           6           1
+#  Timestep    No_Moles    No_Specs   O493Fe500           O          O2
+      66600           7           3           1           5           1
+#  Timestep    No_Moles    No_Specs   O493Fe500           O          O2
+      66700           7           3           1           5           1
+#  Timestep    No_Moles    No_Specs   O493Fe500           O          O2
+      66800           7           3           1           5           1
+#  Timestep    No_Moles    No_Specs   O493Fe500           O          O2
+      66900           7           3           1           5           1
+#  Timestep    No_Moles    No_Specs   O493Fe500           O          O2
+      67000           7           3           1           5           1
+#  Timestep    No_Moles    No_Specs   O493Fe500           O          O2
+      67100           7           3           1           5           1
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      67200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      67300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      67400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      67500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      67600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      67700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      67800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      67900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      68000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      68100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      68200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      68300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      68400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      68500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      68600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      68700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      68800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      68900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      69000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      69100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      69200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      69300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      69400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      69500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      69600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      69700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      69800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      69900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      70000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      70100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      70200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      70300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      70400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      70500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      70600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      70700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      70800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      70900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      71000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      71100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      71200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      71300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      71400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      71500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      71600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      71700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      71800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      71900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      72000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      72100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      72200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      72300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      72400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      72500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      72600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      72700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      72800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      72900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      73000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      73100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      73200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      73300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      73400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      73500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      73600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      73700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      73800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      73900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      74000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      74100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      74200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      74300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      74400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      74500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      74600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      74700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      74800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      74900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      75000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      75100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      75200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      75300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      75400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      75500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      75600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      75700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      75800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      75900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      76000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      76100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      76200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      76300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      76400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      76500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      76600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      76700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      76800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      76900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      77000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      77100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      77200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      77300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      77400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      77500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      77600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      77700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      77800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      77900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      78000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      78100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      78200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      78300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      78400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      78500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      78600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      78700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      78800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      78900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      79000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      79100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      79200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      79300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      79400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      79500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      79600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      79700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      79800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      79900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      80000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      80100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      80200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      80300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      80400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      80500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      80600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      80700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      80800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      80900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      81000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      81100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      81200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      81300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      81400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      81500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      81600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      81700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      81800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      81900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      82000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      82100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      82200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      82300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      82400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      82500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      82600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      82700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      82800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      82900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      83000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      83100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      83200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      83300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      83400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      83500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      83600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      83700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      83800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      83900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      84000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      84100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      84200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      84300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      84400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      84500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      84600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      84700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      84800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      84900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      85000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      85100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      85200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      85300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      85400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      85500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      85600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      85700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      85800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      85900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      86000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      86100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      86200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      86300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      86400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      86500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      86600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      86700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      86800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      86900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      87000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      87100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      87200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      87300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      87400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      87500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      87600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      87700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      87800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      87900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      88000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      88100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      88200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      88300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      88400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      88500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      88600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      88700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      88800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      88900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      89000           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      89100           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      89200           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      89300           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      89400           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      89500           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      89600           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      89700           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      89800           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O495Fe500           O
+      89900           6           2           1           5
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      90000           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      90100           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      90200           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      90300           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      90400           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      90500           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      90600           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      90700           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      90800           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      90900           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      91000           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      91100           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      91200           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      91300           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      91400           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      91500           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      91600           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      91700           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      91800           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      91900           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      92000           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      92100           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      92200           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      92300           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      92400           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      92500           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      92600           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      92700           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      92800           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      92900           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      93000           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      93100           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      93200           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      93300           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      93400           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      93500           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      93600           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      93700           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      93800           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      93900           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      94000           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      94100           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      94200           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      94300           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      94400           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      94500           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      94600           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      94700           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      94800           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      94900           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      95000           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      95100           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      95200           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      95300           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      95400           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      95500           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      95600           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      95700           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      95800           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      95900           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      96000           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      96100           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      96200           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      96300           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      96400           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      96500           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      96600           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      96700           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      96800           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      96900           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      97000           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      97100           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      97200           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      97300           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      97400           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      97500           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      97600           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      97700           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      97800           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      97900           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      98000           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      98100           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      98200           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      98300           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      98400           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      98500           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      98600           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      98700           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      98800           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      98900           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      99000           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      99100           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      99200           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      99300           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      99400           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      99500           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      99600           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      99700           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      99800           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+      99900           5           2           1           4
+#  Timestep    No_Moles    No_Specs   O496Fe500           O
+     100000           5           2           1           4
